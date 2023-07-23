@@ -45,10 +45,10 @@ Explore the website to view the menu, popular food items, and trending Japanese 
 
 The website is built using the following technologies:
 
---**HTML**
---**CSS (including Flexbox and CSS animations)** 
--**JavaScript (ES6)**
--**Vite**
+- HTML
+- CSS (including Flexbox and CSS animations)
+- JavaScript (ES6)
+- Vite
 
 ## Contributing
 
