@@ -1,6 +1,5 @@
 # Sushiman Website
 
-![Sushiman Logo](/assets/sushi.png)
 
 ## Table of Contents
 
@@ -38,8 +37,7 @@ Explore the website to view the menu, popular food items, and trending Japanese 
 
 ## Screenshots
 
-![Screenshot](/assets/Screenshotjap.png)
-_Website_
+
 
 ## Technologies
 
