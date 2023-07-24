@@ -9,7 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 
@@ -37,9 +36,6 @@ Explore the website to view the menu, popular food items, and trending Japanese 
 - Trending sections for sushi and drinks with descriptive icons.
 - Subscription form to receive offers and updates via email.
 
-## Screenshots
-
-
 
 ## Technologies
 
@@ -47,6 +43,7 @@ The website is built using the following technologies:
 
 - HTML
 - CSS (including Flexbox and CSS animations)
+- CSS BEM Model
 - JavaScript (ES6)
 - Vite
 
