@@ -24,6 +24,14 @@ To view the website locally on your machine, follow these steps:
 2. Navigate to the project folder in your terminal.
 3. Open the `index.html` file in your web browser.
 
+## For Quick start:
+
+```
+$ npm install
+$ npm start
+```
+
+Head over to https://vitejs.dev/ to learn more about using vite
 ## Usage
 
 Explore the website to view the menu, popular food items, and trending Japanese dishes and drinks. You can click on the different sections in the navigation menu to jump to specific parts of the website. The website is designed to be intuitive and easy to navigate.
