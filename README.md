@@ -3,7 +3,7 @@
 
 ![Screenshotjap](https://github.com/MohammadShahidBeigh/sushiman/assets/85876937/2879cedd-4042-4c21-b635-1733a35e6985)
 
-## Table of Contents 👀
+## Table of Contents 
 
 - [Description](#description)
 - [Installation](#installation)
